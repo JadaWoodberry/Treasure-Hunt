@@ -1,0 +1,22 @@
+body {
+ text-align: center;   
+ background-color: #999999;
+}
+img {
+ width: 700px;   
+ border: solid grey 5px; 
+}
+button {
+
+}
+footer {
+ position: absolute;
+ bottom: 0px;   
+ right: 525px;
+}
+marquee {
+ background-color: lightgreen;   
+}
+h1 {
+ color:lightgreen;   
+}
